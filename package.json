@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
+  "name": "upopia-design",
+  "version": "0.0.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
